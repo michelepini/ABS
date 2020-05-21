@@ -1,0 +1,15 @@
+Model,Accuracy,Precision,Recall,F1-score
+NN_weights_nostd,0.742,0.757,0.742,0.746
+NN_weights_std,0.82,0.828,0.82,0.822
+NN_noweights_nostd,0.74,0.751,0.74,0.744
+NN_noweights_std,0.832,0.831,0.832,0.831
+NN_noweights_std_SMOTE,0.821,0.829,0.821,0.823
+NN_noweights_std_DUMMIES,0.837,0.835,0.837,0.835
+NN_noweights_nostd_DUMMIES,0.75,0.757,0.75,0.752
+RF_weights_nostd,0.795,0.792,0.795,0.793
+RF_weights_std,0.785,0.783,0.785,0.784
+RF_noweights_nostd,0.794,0.79,0.794,0.79
+RF_noweights_std,0.786,0.782,0.786,0.782
+RF_noweights_std_SMOTE,0.78,0.777,0.78,0.778
+RF_noweights_std_DUMMIES,0.79,0.787,0.79,0.787
+RF_noweights_nostd_DUMMIES,0.797,0.794,0.797,0.794
